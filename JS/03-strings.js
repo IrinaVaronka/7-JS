@@ -80,5 +80,5 @@ const city = 'Kaimelis'
 const sms = 'Sveiki, mano vardas ' + name + ', man yra ' + age + ' metai ir as esu is '+ city + '.';
 console.log(sms);
 
-const sms2 = `Sveiki, mano vardas ${name}, man yra ${2+2} metai ir as esu is ${city}.`
+const sms2 = `Sveiki, mano vardas ${name}, man yra ${age} metai ir as esu is ${city}.`
 console.log(sms2);
