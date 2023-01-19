@@ -4,6 +4,8 @@ TYPEOF (tipo nustatymas)
 operatorius
 */
 
+console.log('----------');
+
 console.log(typeof 5);
 console.log(typeof Infinity);
 console.log(typeof NaN);
